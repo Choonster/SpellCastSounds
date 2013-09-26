@@ -1,0 +1,7 @@
+﻿## Interface: 50400
+## Title: SpellCastSounds
+## Author: Choonster
+## Version: 1.0
+## Notes: Plays a random sound when you cast certain spells.
+
+core.lua
